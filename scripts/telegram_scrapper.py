@@ -16,7 +16,7 @@ phone = os.getenv('PHONE')
 # Function to scrape data from a telegram channel 
 async def scrape_channel(client, channel_username, writer, media_dir):
     """
-    Scrapes messages from specified Telegram channel and writes them to a csv file
+    Scrapes messages from specified Telegram channel and writes   them to a csv file
 
     Args:
         client(TelegramClient): The active telegram client instance
