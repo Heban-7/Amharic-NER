@@ -1,9 +1,11 @@
 pandas
 numpy 
-matplotlib 
-seaborn 
+dotenv
 scikit-learn
+nltk
 telethon 
 amseg
 transformers
-nltk
+seqeval
+torch
+datasets
