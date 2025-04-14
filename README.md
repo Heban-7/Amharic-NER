@@ -6,15 +6,15 @@ This project focuses on fine-tuning  LLM’s for Amharic Named Entity Recognitio
 
 ### Data Extraction
 Data Extracted from Telegram Channels
-* @ethio_brand_collection
-* @gebeyaadama
-* @ZemenExpress
-* @nevacomputer
-* @MerttEka
-* @Shewabrand
-* @Fashiontera
-* @marakibrand
-* @belaclassic
+* ethio_brand_collection
+* gebeyaadama
+* ZemenExpress
+* nevacomputer
+* MerttEka
+* Shewabrand
+* Fashiontera
+* marakibrand
+* belaclassic
 
 ### Key Objectives: 
 * Realtime data extraction from telegram channel 
